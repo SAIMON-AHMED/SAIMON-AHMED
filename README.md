@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAIMON-AHMED
-- 👀 I’m interested in Java development.
-- 🌱 I’m currently learning Java development.
-- 💞️ I’m looking to collaborate on Java development.
+- 👀 I’m interested in Software development.
+- 🌱 I’m currently learning Software development.
+- 💞️ I’m looking to collaborate on Software development.
 - 📫 How to reach me LinkedIn(Saimon Ahmed-https://www.linkedin.com/in/saimon-ahmed-9530b8188?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvSxqbYWORHiLYC4eTJzW5g%3D%3D)
 
 <!---
