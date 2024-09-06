@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SAIMON-AHMED
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Software development.
-- 💞️ I’m looking to collaborate on Software development.
+- 👀 I’m interested in Blockchain development.
+- 🌱 I’m currently learning Solidity.
+- 💞️ I’m looking to collaborate on Blockchain projects.
 - 📫 How to reach me LinkedIn(Saimon Ahmed-www.linkedin.com/in/saimon-ahmed
 
 <!---
