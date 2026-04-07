@@ -2,7 +2,7 @@
 
 I’m a Computer Science student at **St. Francis College, Brooklyn, NY** with a strong interest in blockchain and software development.  
 Over time, I’ve built experience in **smart contract development**, **frontend applications**, and **system design** through hands-on projects and independent learning.  
-I enjoy working on secure, real-world applications that sit at the intersection of technology, finance, and creativity.
+I enjoy working on secure, real-world applications that connect technology, finance, and creativity.
 
 ---
 
