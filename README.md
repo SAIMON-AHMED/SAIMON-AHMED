@@ -1,8 +1,8 @@
-# Hi, I'm Saimon Ahmed — Blockchain Developer and Math Enthusiast
+# Hi, I'm Saimon Ahmed — Blockchain Developer and Math Graduate
 
-I am a Mathematics major at **St. Francis College, Brooklyn, NY**, currently in my final semester.  
-Alongside my studies, I have developed strong skills in **blockchain development**, **frontend web development**, and **software engineering** through self-learning and research projects.  
-My focus is on building secure decentralized systems and meaningful web applications that connect technology, finance, and creativity.
+I’m a Computer Science student at **St. Francis College, Brooklyn, NY** with a strong interest in blockchain and software development.  
+Over time, I’ve built experience in **smart contract development**, **frontend applications**, and **system design** through hands-on projects and independent learning.  
+I enjoy working on secure, real-world applications that sit at the intersection of technology, finance, and creativity.
 
 ---
 
@@ -53,11 +53,16 @@ A blockchain-based digital art collection exploring the connection between the s
 ---
 
 ## Education
+
+**M.S. in Computer Science**  
+*St. Francis College, Brooklyn, NY*  
+- Focus: Blockchain, Cryptography, and Distributed Systems  
+
 **B.S. in Mathematics**  
 *St. Francis College, Brooklyn, NY*  
 - Expected Graduation: December 2025  
 - Dean’s List (All Semesters)  
-- President, Pi Mu Epsilon Math Club
+- President, Pi Mu Epsilon Math Club  
 
 ---
 
